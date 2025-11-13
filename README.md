@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="assets/keqing_typing.gif" width="200" align="right" style="margin-left: 20px;"/>
+<img src="assets/keqing_typing.gif" width="180" align="right" style="margin-left: 20px;"/>
 
 #### 🧑‍💻 About Me
 
